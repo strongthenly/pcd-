@@ -1,0 +1,3 @@
+APP_NAME = "PCD 点云后处理器"
+APP_NAME_EN = "POINT CLOUD POST-PROCESSOR"
+__version__ = "1.1.0"
